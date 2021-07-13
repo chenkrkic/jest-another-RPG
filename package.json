@@ -1,0 +1,25 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "package.json",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenkrkic/jest-another-RPG.git"
+  },
+  "keywords": [
+    "RPG"
+  ],
+  "author": "chenkrkic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chenkrkic/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/chenkrkic/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
